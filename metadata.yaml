@@ -1,0 +1,29 @@
+_repo: Lettres-portugaises-Publiees-sur-l-edition-originale-avec-une-notice-preliminaire-par-Alexand__66978
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alcoforado, Mariana
+    alias: Alcoforado, Marianna
+    birthdate: 1640
+    deathdate: 1723
+    gutenberg_agent_id: '49367'
+    url: http://www.gutenberg.org/2009/agents/49367
+    wikipedia: https://en.wikipedia.org/wiki/Mariana_Alcoforado
+  editor:
+    agent_name: Piedagnel, Alexandre
+    gutenberg_agent_id: '54059'
+    url: http://www.gutenberg.org/2009/agents/54059
+description: ''
+gutenberg_issued: '2021-12-20'
+identifiers:
+  gutenberg: '66978'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Lettres portugaises
+
+  Publiées sur l''édition originale avec une notice préliminaire par Alexandre Piedagnel'
+url: http://www.gutenberg.org/ebooks/66978
