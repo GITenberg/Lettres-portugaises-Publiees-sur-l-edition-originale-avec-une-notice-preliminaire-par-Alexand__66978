@@ -1,5 +1,8 @@
 _repo: Lettres-portugaises-Publiees-sur-l-edition-originale-avec-une-notice-preliminaire-par-Alexand__66978
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66978-h/images/cover.jpg
 creator:
   author:
     agent_name: Alcoforado, Mariana
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '54059'
     url: http://www.gutenberg.org/2009/agents/54059
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66978#Lettres-portugaises-Publiees-sur-l-edition-originale-avec-une-notice-preliminaire-par-Alexand_
 gutenberg_issued: '2021-12-20'
 identifiers:
   gutenberg: '66978'
